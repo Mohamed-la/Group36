@@ -4,7 +4,7 @@
 //
 //public class template
 //{
-//    static WebDriver driver = null;
+    static WebDriver driver = null;
 //    public static void main(String[] args)
 //
 //    {
